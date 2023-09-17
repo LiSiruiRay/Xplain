@@ -1,0 +1,31 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/server": "^11.11.0",
+    "@mantine/core": "^6.0.20",
+    "@mantine/form": "^6.0.20",
+    "@mantine/hooks": "^6.0.20",
+    "@mantine/next": "^6.0.20",
+    "axios": "^1.5.0",
+    "eslint": "8.49.0",
+    "eslint-config-next": "13.4.19",
+    "lucide-react": "^0.279.0",
+    "next": "13.4.19",
+    "openai": "^4.7.1",
+    "pretty-ms": "^8.0.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-youtube": "^10.1.0",
+    "swr": "^2.2.2",
+    "youtube-transcript": "^1.0.6"
+  }
+}

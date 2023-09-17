@@ -1,0 +1,19 @@
+So a concrete example that shows you a difference between group homomorphisms and
+Freiman homomorphisms is, suppose you take an arbitrary map phi from a set that has no
+additive structure. So it's a four-element set, has no additive structure. And I map it to the
+integers, claim that this is a Freiman 2-homomorphism. So you can check. So whenever this is
+satisfied, but that's never non-trivially satisfied. So an arbitrary map here is a Freiman 2-
+homomorphism.
+And if furthermore-- so if you have, let's say, bijection between two sets, both having no
+additive structure, if it's a bijection, it's a Freiman isomorphism of here, order 2. Let me give
+you a few more examples. When you look at homomorphisms between finite groups, so you
+know that if you have a homomorphism and it's also a bijection, then it's an isomorphism.
+But that's not true for this notion of homomorphisms. So the natural embedding that sends the
+Boolean cube to the Boolean cube viewed as Z mod 2 to the n. So what's happening here?
+This is a part of a group homomorphism. And so if you look at Z to the n, and I do mod 2, and
+I restrict to this Boolean cube, that's the group homomorphism If I view this as a subset of a
+bigger group.
+So it is a Freiman homomorphisms of every order. And it's bijective. But it is not a Freiman 2-
+isomorphism. Because you have additive relations here that are not present over here. So if
+you read the definition, the inverse map, there are some additive relations here that are not
+preserved if you pull back.

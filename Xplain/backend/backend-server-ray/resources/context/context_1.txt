@@ -1,0 +1,13 @@
+I'll come to this node, and if the comparison-- maybe a less than-- if it's true, I'm going to go this way in my
+computation, and if it's false, I'm going to go this way in my computation. And I'm going to keep doing that with
+various comparisons-- sure-- until I get down here to some leaf in which I I'm not branching.
+The internal nodes here are representing comparisons, but the leaves are representing-- I stopped my
+computation. I'm outputting something. Does that make sense, what I'm trying to do? I'm changing my algorithm
+to be put in this kind of graphical way, where I'm branching what my program could possibly do based on the
+comparisons that I do.
+I'm not actually counting the rest of the work that the program does. I'm really only looking at the comparisons,
+because I know that I need to compare some things eventually to figure out what my items are. And if that's the
+only way I can distinguish items, then I have to do those comparisons to find out. Does that make sense?
+All right, so what I have is a binary tree that's representing the comparisons done by the algorithm. OK. So it
+starts at one comparison and then it branches. How many leaves must I have in my tree? What does that
+question mean, in terms of the program?
